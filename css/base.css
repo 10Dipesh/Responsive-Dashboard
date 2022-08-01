@@ -51,7 +51,7 @@ body{
 
 .container{
     display: grid;
-    width: 96%;
+    padding: 0 1rem;
     margin: auto;
     gap: 1.8rem;
     grid-template-columns: 14rem auto 23rem;
@@ -72,9 +72,11 @@ h1{
 h2{
     font-size: 1.4rem;
 }
+
 h3{
     font-size: 0.87rem;
 }
+
 h4{
     font-size: 0.8rem;
 }
